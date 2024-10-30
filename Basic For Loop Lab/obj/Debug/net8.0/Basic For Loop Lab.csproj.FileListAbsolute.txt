@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\bin\Debug\net8.0\Basic For Loop Lab.exe
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\bin\Debug\net8.0\Basic For Loop Lab.deps.json
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\bin\Debug\net8.0\Basic For Loop Lab.runtimeconfig.json
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\bin\Debug\net8.0\Basic For Loop Lab.dll
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\bin\Debug\net8.0\Basic For Loop Lab.pdb
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.AssemblyInfo.cs
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.dll
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\refint\Basic For Loop Lab.dll
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.pdb
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\Basic For Loop Lab.genruntimeconfig.cache
+C:\Users\barla\source\repos\Basic For Loop Lab\Basic For Loop Lab\obj\Debug\net8.0\ref\Basic For Loop Lab.dll
